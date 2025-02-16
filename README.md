@@ -65,3 +65,11 @@
 </table>
 <hr>
 
+## キャッチアップ
+- PHP(8.2以上)
+- ralavel
+- Docker
+- github actions
+- stripe
+- git(不安な方)
+
